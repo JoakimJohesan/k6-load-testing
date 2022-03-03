@@ -1,0 +1,18 @@
+{
+  "request": {
+    "url": "/v1/external-tokens/security-object",
+    "method": "POST"
+  },
+  "response": {
+    "status": 201,
+    "base64Body": "eyJ0b2tlbiI6IjAzMTExMDEyMDEwNDAwNDI1ZUFoWnpqRkhVMzJvRGlBbWIwanRPMnAwN29UTDZXT2VFVlBNTVpIT0twbWZOKy8vMGkxVnpTcTdldjBReURCSnNTYWFiS050MnQreEpwcHNvMjNhMzdFbW1teWpiZHJmODZnSllUS3UyT2JZUG5yalgrTHBFSzdaK2dTOXJXdldEYytLRlpxT1dTbFhPR2VTbHRBQTNGWGVYbitnRHVSR3NTYWFiS050MnQreEpwcHNvMjNhMzdFbW1teWpiZHJmc1NhYWJLTnQydC9FZlFJV0Q1eE1mam5QbU9uMWRUQkVQSkJpK2R4VnZKRT1sOTc3VGRBQzVrMTI2MENlZ2JkWDhkWHcxOWhxVEVQdU5VZ0o0ZWtVZlVoNjEyOWtlL203bFFkbURnT3lMcStoR3g5S3BlREVrYll2YU9pa3RJMmhkWTNsRElIQ1dlU3dSTnhTUWlWZ0VTUEFGVUlQZWt4SnI1bjFKZDlNa2tjR2wyTWNKNXJ1NFM3bXFEazB1WUlLTGpuUE1hUFBmRUNzMFhUenNtRUtuTDg9Iiwic2Vjb25kc1RvRXhwaXJlcyI6MTIwMH0=",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "delayDistribution": {
+      "type": "lognormal",
+      "median": 200,
+      "sigma": 0.5
+    }
+  }
+}

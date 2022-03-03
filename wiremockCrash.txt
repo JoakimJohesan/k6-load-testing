@@ -1,0 +1,69 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+
+
+Exception: java.lang.OutOfMemoryError thrown from the UncaughtExceptionHandler in thread "Connector-Scheduler-50fe837a-1"
+
+ /$$      /$$ /$$                     /$$      /$$                     /$$      
+
+| $$  /$ | $$|__/                    | $$$    /$$$                    | $$      
+
+| $$ /$$$| $$ /$$  /$$$$$$   /$$$$$$ | $$$$  /$$$$  /$$$$$$   /$$$$$$$| $$   /$$
+
+| $$/$$ $$ $$| $$ /$$__  $$ /$$__  $$| $$ $$/$$ $$ /$$__  $$ /$$_____/| $$  /$$/
+
+| $$$$_  $$$$| $$| $$  \__/| $$$$$$$$| $$  $$$| $$| $$  \ $$| $$      | $$$$$$/ 
+
+| $$$/ \  $$$| $$| $$      | $$_____/| $$\  $ | $$| $$  | $$| $$      | $$_  $$ 
+
+| $$/   \  $$| $$| $$      |  $$$$$$$| $$ \/  | $$|  $$$$$$/|  $$$$$$$| $$ \  $$
+
+|__/     \__/|__/|__/       \_______/|__/     |__/ \______/  \_______/|__/  \__/
+
+
+port:                         8080
+
+enable-browser-proxying:      false
+
+disable-banner:               false
+
+no-request-journal:           false
+
+verbose:                      false
+
+
+ /$$      /$$ /$$                     /$$      /$$                     /$$      
+
+| $$  /$ | $$|__/                    | $$$    /$$$                    | $$      
+
+| $$ /$$$| $$ /$$  /$$$$$$   /$$$$$$ | $$$$  /$$$$  /$$$$$$   /$$$$$$$| $$   /$$
+
+| $$/$$ $$ $$| $$ /$$__  $$ /$$__  $$| $$ $$/$$ $$ /$$__  $$ /$$_____/| $$  /$$/
+
+| $$$$_  $$$$| $$| $$  \__/| $$$$$$$$| $$  $$$| $$| $$  \ $$| $$      | $$$$$$/ 
+
+| $$$/ \  $$$| $$| $$      | $$_____/| $$\  $ | $$| $$  | $$| $$      | $$_  $$ 
+
+| $$/   \  $$| $$| $$      |  $$$$$$$| $$ \/  | $$|  $$$$$$/|  $$$$$$$| $$ \  $$
+
+|__/     \__/|__/|__/       \_______/|__/     |__/ \______/  \_______/|__/  \__/
+
+
+port:                         8080
+
+enable-browser-proxying:      false
+
+disable-banner:               false
+
+no-request-journal:           false
+
+verbose:                      false

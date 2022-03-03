@@ -1,0 +1,213 @@
+$ k6 run script.js
+
+          /\      |‾‾| /‾‾/   /‾‾/
+     /\  /  \     |  |/  /   /  /
+    /  \/    \    |     (   /   ‾‾\
+   /          \   |  |\  \ |  (‾)  |
+  / __________ \  |__| \__\ \_____/ .io
+
+  execution: local
+     script: script.js
+     output: -
+
+  scenarios: (100.00%) 1 scenario, 100 max VUs, 4m30s max duration (incl. graceful stop):
+           * default: Up to 100 looping VUs for 4m0s over 3 stages (gracefulRampDown: 30s, gracefulStop: 30s)
+
+WARN[0108] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0128] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0144] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0147] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0153] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0154] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0155] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0156] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0157] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0157] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0158] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0158] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0159] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0159] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0159] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0161] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0161] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0161] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0161] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0169] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0177] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0177] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0177] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0179] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0179] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0183] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0183] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0183] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0189] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0201] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0201] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0201] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0201] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0205] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0208] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0215] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0216] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0217] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0218] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0218] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0219] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0219] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0220] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0220] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0220] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0222] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0222] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0222] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0222] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0238] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0238] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0238] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0240] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0244] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0244] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0250] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+WARN[0262] Request Failed                                error="Get \"http://localhost:5002/v1/accounts\": request timeout"
+
+running (4m30.0s), 000/100 VUs, 2715 complete and 50 interrupted iterations
+default ✓ [======================================] 001/100 VUs  4m0s
+
+     ✗ status was 200
+      ↳  92% — ✓ 2514 / ✗ 202
+
+     checks.........................: 92.56% ✓ 2514      ✗ 202
+     data_received..................: 86 MB  317 kB/s
+     data_sent......................: 5.0 MB 18 kB/s
+     http_req_blocked...............: avg=67.44µs min=3.6µs    med=7.2µs   max=4.23ms   p(90)=18µs     p(95)=599.69µs
+     http_req_connecting............: avg=49.78µs min=0s       med=0s      max=4.08ms   p(90)=0s       p(95)=507.9µs
+   ✗ http_req_duration..............: avg=5.63s   min=233.36ms med=1.71s   max=1m0s     p(90)=2.54s    p(95)=1m0s
+       { expected_response:true }...: avg=1.58s   min=233.36ms med=1.64s   max=47.03s   p(90)=2.23s    p(95)=2.4s
+     http_req_failed................: 7.43%  ✓ 202       ✗ 2514
+     http_req_receiving.............: avg=2.6ms   min=0s       med=192.5µs max=289.64ms p(90)=514.04µs p(95)=747.92µs
+     http_req_sending...............: avg=40.24µs min=11.2µs   med=26.8µs  max=3.78ms   p(90)=66.34µs  p(95)=105.22µs
+     http_req_tls_handshaking.......: avg=0s      min=0s       med=0s      max=0s       p(90)=0s       p(95)=0s
+     http_req_waiting...............: avg=5.63s   min=233ms    med=1.7s    max=1m0s     p(90)=2.54s    p(95)=1m0s
+     http_reqs......................: 2716   10.05913/s
+     iteration_duration.............: avg=6.61s   min=1.23s    med=2.71s   max=1m1s     p(90)=3.54s    p(95)=1m1s
+     iterations.....................: 2715   10.055427/s
+     vus............................: 1      min=1       max=100
+     vus_max........................: 100    min=100     max=100
+
+ERRO[0272] some thresholds have failed
